@@ -1,5 +1,7 @@
 {
   "name": "Karaoke",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
